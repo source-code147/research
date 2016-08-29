@@ -53,8 +53,8 @@ void  *Create_Table(BYTE * byBuff, DWORD Size, size_t * x, u_long *y)
 	DWORD size_1; 
 	DWORD *addr16;
 	DWORD *addr10;
-    DWORD *addr11;
-    DWORD *addr12;
+    	DWORD *addr11;
+    	DWORD *addr12;
 	DWORD *addr13; 
 
 	u_long *var; 
